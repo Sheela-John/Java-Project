@@ -21,6 +21,6 @@ public class ClassExample {
 	ex1 i=new ex1();
 	i.id=5;
 	i.agecalc(5,"class b");
-	//System.out.println(i.id);
+	
 }
 }
